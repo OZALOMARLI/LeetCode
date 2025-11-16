@@ -7,7 +7,7 @@ class Solution {
 
         while (x<n) {
             x=(x<<1) + 1;
-        }
+        } 
         return x;
     }
 } 
